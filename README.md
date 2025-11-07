@@ -22,8 +22,6 @@ I have hands-on experience developing backend modules for hospital and financial
 - Implementing modular service layers and DTO-based data transfers  
 - Integrating with external APIs for patient and billing data synchronization  
 
-Currently, I’m preparing to pursue a **career opportunity as a Backend Java Developer in Australia**, focusing on continuous learning and international collaboration.
-
 ---
 
 ### 🎯 Goals
